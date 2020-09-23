@@ -1,0 +1,12 @@
+e97b4a65ce5222191fef2e1b86c677cc *DESCRIPTION
+90b600942e781e35c48d3940f13d89c1 *NAMESPACE
+1e51033a4c7605104ab273144848752a *R/LinProj.r
+53446c09ada45506a3e18b539a01c3fc *R/SLTCA.r
+a0045cd236278aeaa22bc864425f38d0 *R/binpoisimu.r
+04750d1dad40faed35f85851d5460bcf *R/compute_qic.r
+80817210fee5bc71e5d69f9f2006d5ef *R/pointest.R
+f2d3b50bf287a2cc836924ef620cabe1 *R/simulate.r
+f0a7f58b9a6e7533ee94bc9ec71e7090 *R/simulation.r
+867944f9b2d34d2463dfdcc3a7d50ed1 *R/varest.r
+20a9ebad9d1bc0f63d57d8ad2618a74a *man/SLTCA.Rd
+4cc8aac3df74e2710c4aa026c0131d16 *man/simulation.Rd
